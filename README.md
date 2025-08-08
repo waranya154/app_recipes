@@ -1,2 +1,3 @@
 # app_recipes
-ใบงานที่ 8 : ดึงตำรับอาหารจาก API
+
+A new Flutter project.
